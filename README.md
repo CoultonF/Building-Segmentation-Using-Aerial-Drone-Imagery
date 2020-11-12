@@ -5,6 +5,8 @@
 The aim of this project is to develop a building detection machine learning pipeline that will detect buildings given aerial drone photo-maps. Given overhead images of multiple African cities, our machine learning model aims to accurately predict the outline of the buildings. These insights can be used to support mapping for disaster risk management in African cities. Spacenet4 is our model of choice along with the Solaris machine learning pipeline.
 
 ### Setup
+#### Setup requires access to SFU gitlab as the codebase is too large to store on this git repo.
+
 
 To run the pipeline (ML Pipeline.ipynb), setup the Solaris environment in Anaconda :- 
 - Clone and download the repository (post creation of SSH key pair (for SFU CS Gitlab) using SSH (git@csil-git1.cs.surrey.sfu.ca:nangrish/cmpt733.git)
