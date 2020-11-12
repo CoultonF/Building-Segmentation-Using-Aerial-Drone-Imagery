@@ -6,6 +6,7 @@ The aim of this project is to develop a building detection machine learning pipe
 
 ### Setup
 #### Setup requires access to SFU gitlab as the codebase is too large to store on this git repo.
+#### The notebook file has the outputs and all code ran inside to view instead.
 
 
 To run the pipeline (ML Pipeline.ipynb), setup the Solaris environment in Anaconda :- 
